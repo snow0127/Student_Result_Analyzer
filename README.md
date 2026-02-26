@@ -42,17 +42,22 @@ The notebook includes:
 - Handling missing or incorrect data
 - Computing:
   - Total Marks
-  - Average Marks
   - Percentage
+  - Grade
+  - Status
 - Grade classification logic
-- Identifying:
-  - Highest scorer
-  - Lowest scorer
-  - Overall class performance
 
 ---
 
-## Example Grade Logic
+## Subjects Included
+
+- Computer
+- Physics
+- Chemistry
+- English
+- Maths
+
+## Grade Logic
 
 ```python
 if percentage >= 90:
