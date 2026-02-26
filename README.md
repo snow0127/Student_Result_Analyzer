@@ -1,13 +1,12 @@
 # Student_Result_Analyzer
 
-
-## 📌 Project Overview
+## Project Overview
 The **Student Result Analyzer** is a Python-based data analysis project that evaluates and analyzes student performance data.  
 The project performs data processing, analysis, and generates insights such as Total Marks, PErcentage, Grades, and Status.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze student marks data
 - Calculate total, average, and percentage
 - Assign grades based on performance
@@ -17,25 +16,25 @@ The project performs data processing, analysis, and generates insights such as T
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Jupyter Notebook
 - Tkinter
 
 ---
 
-## ⚙️ Features
+## Features
 
-✔️ Data Cleaning and Preprocessing  
-✔️ Calculation of Total Marks  
-✔️ Percentage Calculation  
-✔️ Grade Assignment Logic  
-✔️ Performance Analysis  
-✔️ Summary Report Generation  
+- Data Cleaning and Preprocessing
+- Calculation of Total Marks
+- Percentage Calculation
+- Grade Assignment Logic
+- Performance Analysis
+- Summary Report Generation  
 
 ---
 
-## 📊 Analysis Performed
+## Analysis Performed
 
 The notebook includes:
 
@@ -53,7 +52,7 @@ The notebook includes:
 
 ---
 
-## 🧮 Example Grade Logic
+## Example Grade Logic
 
 ```python
 if percentage >= 90:
