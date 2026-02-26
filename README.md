@@ -13,8 +13,8 @@
 <p>
 The <strong>Student Result Analyzer</strong> is a Python-based data analysis project 
 that evaluates and analyzes student performance data.
-The project performs data processing, analysis, and generates insights such as 
-<strong>Total Marks, Percentage, Grades, and Status</strong>.
+The project takes values from the user and performs data processing, analysis, and generates insights such as 
+<strong>Total Marks, Percentage, Grades and Status</strong>.
 </p>
 
 <h2>Objectives</h2>
